@@ -7,13 +7,7 @@ MyBlog is a simple, responsive blog application built using Node.js, Express, EJ
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Publishing on GitHub](#publishing-on-github)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Additional Instructions](#additional-instructions)
+
 
 ## Features
 
@@ -75,19 +69,6 @@ In your web browser, navigate to http://localhost:3000.
 	•	Use the Create New Post button to add a new post (fill in title, content, and optionally upload an image).
 	•	Each post displays options to Edit or Delete it on the home page.
 
-5. **Project Structure**
-MyBlog/
-├── index.js           # Main application file
-├── package.json
-├── public/            # Static files (images, CSS, etc.)
-│   ├── css/           # Custom styles (e.g., style.css)
-│   └── uploads/       # Uploaded images
-└── views/             # EJS templates
-    ├── partials/
-    │   ├── header.ejs
-    │   └── footer.ejs
-    ├── index.ejs      # Main page displaying posts
-    ├── new.ejs        # Form for creating posts
-    └── edit.ejs       # Form for editing posts
+
 
 ![Screenshot of MyBlog](./myblog.jpg "MyBlog Screenshot")
