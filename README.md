@@ -89,3 +89,5 @@ MyBlog/
     ├── index.ejs      # Main page displaying posts
     ├── new.ejs        # Form for creating posts
     └── edit.ejs       # Form for editing posts
+
+![Screenshot of MyBlog](./myblog.jpg "MyBlog Screenshot")
